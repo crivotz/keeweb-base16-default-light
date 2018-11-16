@@ -1,0 +1,37 @@
+.th-base16-default-light {
+    --action-color: #7cafc2;
+    --background-color: #f8f8f8;
+    --error-color: #ab4642;
+    --form-box-shadow-color-focus: transparent;
+    /* --intermediate-background-color: transparent; */
+    --light-border-color: #181818;
+    --medium-color: #181818;
+    --secondary-background-color: #7cafc2;
+    --text-color: #181818;
+    --text-contrast-action-color: #181818;
+    --mute-percent: 70%;
+    color: #181818;
+}
+
+.th-base16-default-light .app__menu {
+    background: #e8e8e8;
+}
+
+.th-base16-default-light .app__menu .menu__section {
+    border-color: transparent;
+}
+
+.th-base16-default-light .list__item--active .list__item-descr {
+    color: #181818;
+}
+
+.th-base16-default-light .list__search-field {
+    background: #e8e8e8;
+    border-radius: 3px;
+    padding: .4em;
+}
+
+.th-base16-default-light .list__search-field .list__search-icon-search {
+    top: .4em;
+    right: .4em;
+}

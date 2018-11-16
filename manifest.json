@@ -1,0 +1,22 @@
+{
+  "version": "0.0.1",
+  "manifestVersion": "0.1.0",
+  "name": "keeweb-theme-base16-default-light",
+  "description": "Keeweb themes based on Base16 default light",
+  "author": {
+    "name": "Mauro Locatelli",
+    "email": "crivotz@gmail.com",
+    "url": "https://github.com/crivotz/"
+  },
+  "resources": {
+    "css": "fw5j2/w28i8mm3N+6G89VuByAVznCsXiWUnDhEvUR+4zvR+rw8ZxE0lpZFcFisK2jQdu0ye0kdZaE1cOcz2g5gPCDJif3/FyVnu1xWtO+pBtCyGzec4fKbW98mzlmCommUaTfVjlJwwhGHLJP+6KBxA8z1+xJoVrtYi8e1e0FlZZHIqH5c/XzYYgqsNOJl0hXsVxQPxwuKDUbap5/GYIVko4LRukKXPH/XcN5vBWtYhusRm5PLHaMKmtx2AO4dSjVddypiohqZw8XYP/ZJ1SnwgXIbPuLbFVr6wir0eL5PYJX1UgUS2dPKzIGJadFVLJ1CF/bwYs14OpJ6bUM+yQLw=="
+  },
+  "licence": "",
+  "url": "https://github.com/crivotz/keeweb-base16-default-light",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtNct6QSGr7FgJ43YcqXVhK8yoySpGinp3xAeLhgcC1PYaqaOGOqn3wdGxiORpDfojatEgDwaAQkQYKDUKR+VbH3AAnDLNvyO6dqnq5+3LatFbAIyJs9esAMj9YzyzP1K2Z6oaym28+iDpx/tWK2sUfL81heNEF34XX3lZV+pnMwZe688TzETejk+Y8l+0NQHqCSt97z4jn8KSaYzyY0ClokRQJhFOK3d5iUXKJTDSSalPosdNZPy65HnpVZuEk9sIEhShHxxMC/sfzjUF6sa3DKXy0bmrqBk7CbVRf6ORbHh5LRstRwIh7MTE0SY1st71/uI0JNIdQYS00YZO2QcwQIDAQAB",
+  "license": "MIT",
+  "theme": {
+    "name": "base16-default-light",
+    "title": "Base16 Default light"
+  }
+}
